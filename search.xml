@@ -4,7 +4,7 @@
     <title>Ayer中文说明</title>
     <url>/2019/ayer/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="介绍"><a href="#介绍" class="headerlink" title="介绍"></a>介绍</h1><blockquote>
-<p><a href="https://github.com/Shen-Yu/hexo-theme-ayer">Ayer</a> 是一个干净且优雅的Hexo主题，自带响应式，加载速度很快，该有的功能都有，可配置项很多，非常适合作为你的博客主题，主题内还附送了6张精美的高清壁纸。欢迎使用和Star支持，如果你在使用过程中有任何疑问或者建议，欢迎联系我！如果你的博客采用了本主题，欢迎在下面评论区留下地址~</p>
+<p><a href="https://github.com/Shen-Yu/hexo-theme-ayer">Ayer</a> 是一个干净且优雅的 Hexo 主题，自带响应式，加载速度很快，该有的功能都有，可配置项很多，非常适合作为你的博客主题，主题内还附送了6张精美的高清壁纸。欢迎使用和 Star 支持，如果你在使用过程中有任何疑问或者建议，欢迎联系我！如果你的博客采用了本主题，欢迎在下面评论区留下地址~</p>
 </blockquote>
 <p><a href="https://github.com/Shen-Yu/hexo-theme-ayer">Ayer</a> 在马来语中是“水”的意思，在西班牙语中是“昨天”的意思。</p>
 <p><img src="https://cdn.jsdelivr.net/gh/Shen-Yu/cdn/picgo/ayer.jpg" alt="hexo-theme-ayer"></p>
@@ -18,7 +18,7 @@
 <li>干净且优雅，文章内容美观易读</li>
 <li>首页封面全屏平铺，扁平化设计，简洁又不失高大上</li>
 <li>响应式设计，博客在桌面端、平板、手机等设备上均能很好的展现</li>
-<li>首页封面和文案可以任意更换，主题内附送6张精美高清壁纸</li>
+<li>首页封面和文案可以任意更换，主题内附送 6 张精美高清壁纸</li>
 <li>时间轴式的归档页</li>
 <li>支持 <code>黑夜阅读</code> 模式</li>
 <li>侧边栏可以点击显示或隐藏</li>
@@ -29,14 +29,15 @@
 <li><code>TOC</code> 目录在文章页悬浮，跳转更方便</li>
 <li>可设置阅读文章时做密码验证<a href="https://github.com/MikeCoder/hexo-blog-encrypt/blob/master/ReadMe.zh.md">hexo-blog-encrypt</a></li>
 <li><a href="https://valine.js.org/">Valine</a>和<a href="https://gitalk.github.io/">Gitalk</a>评论模块（推荐配合<code>leancloud</code>使用 <code>Valine</code>）</li>
-<li>集成了不蒜子、百度统计、Google Analytics、CNZZ等统计功能</li>
-<li>支持Github Ribbons</li>
+<li>集成了<a href="http://busuanzi.ibruce.info/">不蒜子</a>、百度统计、Google Analytics、CNZZ等统计功能</li>
+<li>支持 Github Ribbons</li>
 </ol>
 <p>如果想体验手机端浏览效果，可以扫一下二维码：</p>
 <p><img src="https://cdn.jsdelivr.net/gh/Shen-Yu/cdn/picgo/mobile_ayer.jpg" alt="手机端效果"></p>
-<h1 id="多语言支持"><a href="#多语言支持" class="headerlink" title="多语言支持"></a>多语言支持</h1><p>zh-CN（中文简体） en（English） zh-TW（中文繁体） ja（Japanese） es（Spanish） de（German） fr（French） ru（Russian） ko（Korean） vi（Vietnamese） nl（Dutch） no（Norwegian） pt（Portuguese）</p>
-<p>默认语言是英语，把博客目录下的_config文件里的<code>language</code>修改成以上简写即可更换语言。</p>
-<h1 id="打赏"><a href="#打赏" class="headerlink" title="打赏"></a>打赏</h1><p>本主题完全开源且免费，目前由我一个人维护，如果你觉得主题不错，你可以选择继续白嫖，也可以选择适当打赏我，不在于金额多少，而是能让我更有动力去维护这个主题。打赏请备注说明，谢谢~</p>
+<h1 id="多语言支持"><a href="#多语言支持" class="headerlink" title="多语言支持"></a>多语言支持</h1><p><code>zh-CN（简体中文）</code> ; <code>en（English）</code> ; <code>zh-TW（繁體中文）</code> ; <code>ja（Japanese）</code> ; <code>es（Spanish）</code> ; <code>de（German）</code> ; <code>fr（French）</code> ; <code>ru（Russian）</code> ; <code>ko（Korean）</code> ; <code>vi（Vietnamese）</code> ; <code>nl（Dutch）</code> ; <code>no（Norwegian）</code> ; <code>pt（Portuguese）</code> </p>
+<p>Hexo 默认语言为英语（en），请参照上表修改 Hexo 博客目录下的 <code>_config.yml</code> 文件中 <code>language:</code> 的值（第 11 行）。</p>
+<h1 id="支持"><a href="#支持" class="headerlink" title="支持"></a>支持</h1><p>如果你想基于该主题二次开发，根据 <a href="https://github.com/Shen-Yu/hexo-theme-ayer/blob/master/LICENSE">Ayer 主题的开源许可证</a>，只要你进 <a href="https://github.com/Shen-Yu/hexo-theme-ayer">项目主页</a> 给这个主题右上角点一个 Star 并且不抹掉页脚的主题仓库链接就可以任意修改使用该主题了。</p>
+<p>此主题完全开源且免费，目前由我一个人维护，如果你觉得主题不错，可以选择适当打赏我，不在于金额多少，而是能让我更有动力去维护这个主题。打赏请备注说明，谢谢~</p>
 <div style="width:100%;text-align:center;font-weight:bold">
 <span style="width:30%;display:inline-block">
 微信
@@ -59,13 +60,13 @@
 <h1 id="修改"><a href="#修改" class="headerlink" title="修改"></a>修改</h1><p>将博客根目录下的 <code>_config.yml</code> 里的 <code>theme</code> 值修改成 <code>ayer</code></p>
 <figure class="highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="attr">theme:</span> <span class="string">ayer</span></span><br></pre></td></tr></table></figure>
 
-<h1 id="更新"><a href="#更新" class="headerlink" title="更新"></a>更新</h1><p>更新主题可能会覆盖你之前改动过的config文件，建议先把<code>config.yml</code>里的配置备份一下，然后删掉ayer目录后重新<code>git clone</code>下载主题，再把配置复制进去。</p>
+<h1 id="更新"><a href="#更新" class="headerlink" title="更新"></a>更新</h1><p>更新主题可能会覆盖你之前改动过的 config 文件，建议先把 <code>config.yml</code> 里的配置备份一下，然后删掉 ayer 目录后重新 <code>git clone</code> 下载主题，再把配置复制进去。</p>
 <figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="built_in">cd</span> themes/ayer</span><br><span class="line">git pull</span><br></pre></td></tr></table></figure>
 
-<p>如果你是用方法二的npm安装本主题，那么在根目录执行以下命令就可更新。</p>
+<p>如果你是用方法二的 npm 安装本主题，那么在根目录执行以下命令就可更新。</p>
 <figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">npm update hexo-theme-ayer -S</span><br></pre></td></tr></table></figure>
 
-<h1 id="主题配置"><a href="#主题配置" class="headerlink" title="主题配置"></a>主题配置</h1><p>以下是ayer主题目录下的 <code>_config.yml</code>文件配置，如果你是用方法二的npm安装，那么在根目录下的<code>_config.ayer.yml</code>配置就行，注意别把hexo的配置文件和主题的配置文件搞混。另外，请先确保你已经读过<a href="https://hexo.io/zh-cn/docs/">Hexo文档</a>。如果你在配置过程中有问题，请先擅用 <a href="https://cn.bing.com">搜索引擎</a>。如果你搜不到解决方法，你可以参考：<a href="https://gitee.com/shen-yu/shen-yu/tree/dev/">我的博客源码</a>，按照我的一模一样配肯定是不会有问题的。如果对部分字体或颜色等有定制需求，请自行在css文件进行修改，主题本身已经很符合审美，自定义配置项也很多，不建议改得花里胡哨，过大的字体和库都会影响博客加载速度。如果还有问题或者建议，那么请在评论区给我留言~</p>
+<h1 id="主题配置"><a href="#主题配置" class="headerlink" title="主题配置"></a>主题配置</h1><p>以下是 ayer 主题目录下的 <code>_config.yml</code> 文件配置，如果你是用方法二的 npm 安装，那么在 Hexo 博客目录下的 <code>_config.ayer.yml</code> 配置就行，注意别把 Hexo 的配置文件和主题的配置文件搞混。另外，请先确保你已经读过 <a href="https://hexo.io/zh-cn/docs/">Hexo 文档</a>。如果你在配置过程中有问题，请先擅用 <a href="https://cn.bing.com">搜索引擎</a>。如果你搜不到解决方法，你可以参考：<a href="https://gitee.com/shen-yu/shen-yu/tree/dev/">我的博客源码</a>，按照我的一模一样配肯定是不会有问题的。如果对部分字体或颜色等有定制需求，请自行在 css 文件进行修改，主题本身已经很符合审美，自定义配置项也很多，不建议改得花里胡哨，过大的字体和库都会影响博客加载速度。如果还有问题或者建议，那么请在评论区给我留言~</p>
 <figure class="highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="comment"># 侧边栏菜单</span></span><br><span class="line"><span class="attr">menu:</span></span><br><span class="line">  <span class="string">主页:</span> <span class="string">/</span></span><br><span class="line">  <span class="string">归档:</span> <span class="string">/archives</span></span><br><span class="line">  <span class="string">分类:</span> <span class="string">/categories</span></span><br><span class="line">  <span class="string">标签:</span> <span class="string">/tags</span></span><br><span class="line">  <span class="string">摄影:</span> <span class="string">http://shenyu-vip.lofter.com</span></span><br><span class="line">  <span class="string">旅行:</span> <span class="string">/tags/旅行/</span></span><br><span class="line">  <span class="string">关于我:</span> <span class="string">/2019/about</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># 站点次标题和打字动效</span></span><br><span class="line"><span class="comment"># https://github.com/mattboldt/typed.js</span></span><br><span class="line"><span class="attr">subtitle:</span></span><br><span class="line">  <span class="attr">enable:</span> <span class="literal">true</span>  <span class="comment"># 是否开启动效</span></span><br><span class="line">  <span class="attr">text:</span> <span class="string">面朝大海，春暖花开</span>  <span class="comment"># 显示的文字</span></span><br><span class="line">  <span class="attr">text2:</span> <span class="string">愿你一生努力，一生被爱</span>   <span class="comment"># 滚动播放，如果不需要可以留空</span></span><br><span class="line">  <span class="attr">text3:</span> <span class="string">想要的都拥有，得不到的都释怀</span>  <span class="comment"># 最多支持三段文字</span></span><br><span class="line">  <span class="attr">startDelay:</span> <span class="number">0</span>   <span class="comment"># 延迟时间</span></span><br><span class="line">  <span class="attr">typeSpeed:</span> <span class="number">200</span>  <span class="comment"># 打字速度</span></span><br><span class="line">  <span class="attr">loop:</span> <span class="literal">true</span>  <span class="comment"># 是否循环</span></span><br><span class="line">  <span class="attr">backSpeed:</span> <span class="number">100</span>  <span class="comment"># 回退速度</span></span><br><span class="line">  <span class="attr">showCursor:</span> <span class="literal">true</span>  <span class="comment"># 是否显示光标</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># 网站图标和侧边栏logo</span></span><br><span class="line"><span class="attr">favicon:</span> <span class="string">/favicon.ico</span></span><br><span class="line"><span class="attr">logo:</span> <span class="string">/images/ayer-side.svg</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># 封面配置</span></span><br><span class="line"><span class="comment"># enable-是否启用封面；path-封面背景图；logo-封面logo</span></span><br><span class="line"><span class="attr">cover:</span></span><br><span class="line">  <span class="attr">enable:</span> <span class="literal">true</span></span><br><span class="line">  <span class="attr">path:</span> <span class="string">/images/cover1.jpg</span>  <span class="comment"># /source/images目录下附送多张精美壁纸，可任意更换</span></span><br><span class="line">  <span class="attr">logo:</span> <span class="string">/images/ayer.svg</span>  <span class="comment"># 如果不要直接设置成false</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># 页面顶部进度条  </span></span><br><span class="line"><span class="attr">progressBar:</span> <span class="literal">true</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># 告示板模块</span></span><br><span class="line"><span class="attr">broadcast:</span></span><br><span class="line">  <span class="attr">enable:</span> <span class="literal">true</span> <span class="comment"># true开启，false关闭</span></span><br><span class="line">  <span class="attr">type:</span> <span class="number">2</span> <span class="comment"># 1：自定义输入，2：一言api(https://hitokoto.cn/)</span></span><br><span class="line">  <span class="attr">text:</span> <span class="string">一个安静优雅的hexo主题，快速且响应式。</span> <span class="comment"># type为1时有效</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># 文章配置</span></span><br><span class="line"><span class="comment"># 文章太长，截断按钮文字(在需要截断的行增加此标记：&lt;!--more--&gt;)</span></span><br><span class="line"><span class="attr">excerpt_link:</span> <span class="string">阅读更多...</span></span><br><span class="line"><span class="comment"># 如果你嫌每篇文章手动加more标记比较麻烦，又不想在首页全文显示，可以把excerpt_all设置成true，这样首页只会显示文章归档</span></span><br><span class="line"><span class="attr">excerpt_all:</span> <span class="literal">false</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># 是否开启代码复制按钮</span></span><br><span class="line"><span class="attr">copy_btn:</span> <span class="literal">true</span></span><br><span class="line"><span class="comment"># 是否开启文章分享按钮</span></span><br><span class="line"><span class="attr">share_enable:</span> <span class="literal">true</span></span><br><span class="line"><span class="comment"># 国内的社交平台(If you are not in China, maybe you prefer to set:false)</span></span><br><span class="line"><span class="attr">share_china:</span> <span class="literal">true</span></span><br><span class="line"><span class="comment"># 文章分享文字</span></span><br><span class="line"><span class="attr">share_text:</span> <span class="string">分享</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># 分页文字</span></span><br><span class="line"><span class="attr">nav_text:</span></span><br><span class="line">  <span class="attr">page_prev:</span> <span class="string">上一页</span></span><br><span class="line">  <span class="attr">page_next:</span> <span class="string">下一页</span></span><br><span class="line">  <span class="attr">post_prev:</span> <span class="string">上一篇</span></span><br><span class="line">  <span class="attr">post_next:</span> <span class="string">下一篇</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># 文章页是否显示目录</span></span><br><span class="line"><span class="attr">toc:</span> <span class="literal">true</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># 文章中的图片是否支持点击放大</span></span><br><span class="line"><span class="attr">image_viewer:</span> <span class="literal">true</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># https://github.com/willin/hexo-wordcount</span></span><br><span class="line"><span class="comment"># 是否开启字数统计(关闭请设置enable为false)</span></span><br><span class="line"><span class="comment"># 也可以单独在md文件里Front-matter设置`no_word_count: true`属性，来自定义关闭字数统计</span></span><br><span class="line"><span class="attr">word_count:</span></span><br><span class="line">  <span class="attr">enable:</span> <span class="literal">true</span></span><br><span class="line">  <span class="comment"># 只在文章详情显示(不在首页显示)</span></span><br><span class="line">  <span class="attr">only_article_visit:</span> <span class="literal">true</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># 打赏</span></span><br><span class="line"><span class="comment"># 打赏type设定：0-关闭打赏； 1-文章对应的md文件里有reward:true属性，才有打赏； 2-默认开启所有文章均有打赏，如果有些文章你不需要，请在文章对应的md文件里设置no_reward:true</span></span><br><span class="line"><span class="attr">reward_type:</span> <span class="number">2</span></span><br><span class="line"><span class="comment"># 打赏wording</span></span><br><span class="line"><span class="attr">reward_wording:</span> <span class="string">&#x27;请我喝杯咖啡吧~&#x27;</span></span><br><span class="line"><span class="comment"># 支付宝二维码图片地址，跟你设置logo的方式一样。比如：/images/alipay.jpg</span></span><br><span class="line"><span class="attr">alipay:</span> <span class="string">/images/alipay.jpg</span></span><br><span class="line"><span class="comment"># 微信二维码图片地址</span></span><br><span class="line"><span class="attr">weixin:</span> <span class="string">/images/wechat.jpg</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># 版权声明</span></span><br><span class="line"><span class="comment"># 版权声明type设定：0-关闭版权声明； 1-文章对应的md文件里有copyright: true属性，才有版权声明； 2-所有文章均有版权声明</span></span><br><span class="line"><span class="attr">copyright_type:</span> <span class="number">2</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># 是否启用搜索</span></span><br><span class="line"><span class="attr">search:</span> <span class="literal">true</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># RSS订阅(先安装hexo-generator-feed插件，再去博客根目录config进行配置)</span></span><br><span class="line"><span class="comment"># 不想显示可以直接留空</span></span><br><span class="line"><span class="attr">rss:</span> <span class="string">/atom.xml</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># 是否启用黑夜模式开关</span></span><br><span class="line"><span class="attr">darkmode:</span> <span class="literal">true</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># 动态背景效果: 0-关闭，1-动态线条(跟随鼠标)</span></span><br><span class="line"><span class="attr">canvas_bg:</span> <span class="number">0</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># 自定义鼠标样式，直接替换/images/mouse.cur文件</span></span><br><span class="line"><span class="attr">mouse:</span></span><br><span class="line">  <span class="attr">enable:</span> <span class="literal">false</span></span><br><span class="line">  <span class="attr">path:</span> <span class="string">/images/mouse.cur</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># 鼠标点击效果：0-关闭，1-爱心，2-爆炸烟花，3-粒子烟花</span></span><br><span class="line"><span class="attr">click_effect:</span> <span class="number">0</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># 页面宽度自定义（不建议修改，可能造成布局混乱），article_width文章宽度，sidebar_width侧边栏宽度</span></span><br><span class="line"><span class="attr">layout:</span></span><br><span class="line">  <span class="attr">article_width:</span> <span class="string">80rem</span></span><br><span class="line">  <span class="attr">sidebar_width:</span> <span class="string">8rem</span></span><br><span class="line">  </span><br><span class="line"><span class="comment"># GitHub Ribbons-封面右上角的forkme，换样式直接在source/images目录下替换forkme图片</span></span><br><span class="line"><span class="attr">github:</span> </span><br><span class="line">  <span class="comment"># (关闭请设置为false)</span></span><br><span class="line">  <span class="attr">url:</span> <span class="string">https://github.com/Shen-Yu/hexo-theme-ayer</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># 网易云音乐插件</span></span><br><span class="line"><span class="attr">music:</span></span><br><span class="line">  <span class="attr">enable:</span> <span class="literal">false</span></span><br><span class="line">  <span class="comment"># 播放器尺寸类型(1：小尺寸、2：大尺寸)</span></span><br><span class="line">  <span class="attr">type:</span> <span class="number">1</span></span><br><span class="line">  <span class="attr">id:</span> <span class="number">22707008</span>  <span class="comment"># 网易云分享的音乐ID(更换音乐请更改此配置项)</span></span><br><span class="line">  <span class="attr">autoPlay:</span> <span class="literal">true</span>  <span class="comment"># 是否开启自动播放</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># 访问量统计(不蒜子)</span></span><br><span class="line"><span class="attr">busuanzi:</span></span><br><span class="line">  <span class="attr">enable:</span> <span class="literal">true</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># 友盟cnzz统计(url填js代码src链接)</span></span><br><span class="line"><span class="attr">cnzz:</span></span><br><span class="line">  <span class="attr">enable:</span> <span class="literal">true</span></span><br><span class="line">  <span class="attr">url:</span> <span class="comment">#</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># Google Analytics</span></span><br><span class="line"><span class="attr">google_analytics:</span> <span class="string">&#x27;&#x27;</span></span><br><span class="line"><span class="comment"># 百度统计</span></span><br><span class="line"><span class="attr">baidu_analytics:</span> <span class="string">&#x27;&#x27;</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># Mathjax数学公式</span></span><br><span class="line"><span class="attr">mathjax:</span> <span class="literal">true</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># Katex数学公式(allpost设置为false时只有头部设置math:true的文章才开启)</span></span><br><span class="line"><span class="comment"># 需要更换hexo渲染器，npm un hexo-renderer-marked -S &amp;&amp; npm i hexo-renderer-markdown-it-katex -S</span></span><br><span class="line"><span class="attr">katex:</span></span><br><span class="line">  <span class="attr">enable:</span> <span class="literal">false</span> <span class="comment"># true</span></span><br><span class="line">  <span class="attr">allpost:</span> <span class="literal">true</span></span><br><span class="line">  <span class="attr">copy_tex:</span> <span class="literal">false</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># 网站成立年份(默认为 2019，若填入年份小于当前年份，则显示为 2018-2019 类似的格式)</span></span><br><span class="line"><span class="attr">since:</span> <span class="number">2019</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># 是否显示页脚信息(建议保留，有助于本主题的推广)</span></span><br><span class="line"><span class="attr">pageFooter:</span> <span class="literal">true</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># ICP备案信息尾部显示</span></span><br><span class="line"><span class="attr">icp:</span></span><br><span class="line">  <span class="attr">enable:</span> <span class="literal">false</span></span><br><span class="line">  <span class="attr">url:</span> <span class="string">&#x27;http://www.beian.miit.gov.cn/&#x27;</span> <span class="comment"># 备案链接</span></span><br><span class="line">  <span class="attr">text:</span> <span class="string">&#x27;浙ICP备88888888&#x27;</span> <span class="comment"># 备案信息</span></span><br><span class="line"><span class="comment"># 公安备案信息尾部显示</span></span><br><span class="line"><span class="attr">gongan:</span></span><br><span class="line">  <span class="attr">enable:</span> <span class="literal">true</span></span><br><span class="line">  <span class="attr">img:</span> <span class="string">/images/beian.png</span> <span class="comment">#公安备案图片</span></span><br><span class="line">  <span class="attr">url:</span> <span class="string">&quot;http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=01234567890123&quot;</span> <span class="comment">#公安备案链接</span></span><br><span class="line">  <span class="attr">text:</span> <span class="string">&quot;浙公网安备01234567890123号&quot;</span> <span class="comment">#公安备案信息</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># 友情链接</span></span><br><span class="line"><span class="attr">friends_link:</span></span><br><span class="line">  <span class="string">Ayer主题:</span> <span class="comment">#网站名称</span></span><br><span class="line">    <span class="comment">#网站地址</span></span><br><span class="line">    <span class="attr">url:</span> <span class="string">https://github.com/Shen-Yu/hexo-theme-ayer</span></span><br><span class="line">    <span class="comment">#网站图片(可忽略不写)</span></span><br><span class="line">    <span class="attr">img:</span> <span class="string">/images/ayer.png</span></span><br><span class="line">  <span class="attr">GitHub:</span></span><br><span class="line">    <span class="attr">url:</span> <span class="string">https://github.com/Shen-Yu</span></span><br><span class="line">    <span class="attr">img:</span> <span class="string">https://i.loli.net/2020/09/07/indb4PRYDA98EkN.png</span></span><br><span class="line">  <span class="string">码云:</span></span><br><span class="line">    <span class="attr">url:</span> <span class="string">https://gitee.com/shen-yu</span></span><br><span class="line">    <span class="attr">img:</span> <span class="string">https://i.loli.net/2020/09/07/K3AqO7h6krQFlRX.png</span></span><br><span class="line">  <span class="string">Hexo官网:</span></span><br><span class="line">    <span class="attr">url:</span> <span class="string">https://hexo.io</span></span><br><span class="line">    <span class="attr">img:</span> <span class="string">https://i.loli.net/2020/09/07/UYGzjo7h68CRWny.png</span></span><br><span class="line">  <span class="string">Hexo图表插件:</span></span><br><span class="line">    <span class="attr">url:</span> <span class="string">https://github.com/Shen-Yu/hexo-tag-chart</span></span><br><span class="line">    <span class="attr">img:</span> <span class="string">https://i.loli.net/2020/09/07/GIXBYE5SoylhR1r.png</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># 评论：1、Valine(推荐)；2、Gitalk</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># 1、Valine[一款快速、简洁且高效的无后端评论系统](https://github.com/xCss/Valine)</span></span><br><span class="line"><span class="comment"># 启用Valine必须先创建leancloud应用， 注册账号后获取 id|key 填入即可</span></span><br><span class="line"><span class="attr">leancloud:</span>  </span><br><span class="line">  <span class="attr">enable:</span> <span class="literal">true</span></span><br><span class="line">  <span class="attr">app_id:</span> <span class="comment">#</span></span><br><span class="line">  <span class="attr">app_key:</span> <span class="comment">#</span></span><br><span class="line"><span class="comment"># Valine配置(如果有些文章你想关闭评论，请在文章对应的md文件里设置no_valine:true)</span></span><br><span class="line"><span class="attr">valine:</span></span><br><span class="line">  <span class="attr">enable:</span> <span class="literal">true</span> <span class="comment"># 是否启用</span></span><br><span class="line">  <span class="attr">avatar:</span> <span class="string">monsterid</span> <span class="comment"># 头像样式(https://valine.js.org/avatar.html)</span></span><br><span class="line">  <span class="attr">placeholder:</span> <span class="string">给我的文章加点评论吧~</span> <span class="comment"># placeholder</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># 2、Gitalk(https://github.com/gitalk/gitalk)</span></span><br><span class="line"><span class="attr">gitalk:</span></span><br><span class="line">  <span class="attr">enable:</span> <span class="literal">false</span> <span class="comment"># true</span></span><br><span class="line">  <span class="attr">clientID:</span> <span class="comment"># GitHub Application Client ID</span></span><br><span class="line">  <span class="attr">clientSecret:</span> <span class="comment"># Client Secret</span></span><br><span class="line">  <span class="attr">repo:</span> <span class="comment"># Repository name</span></span><br><span class="line">  <span class="attr">owner:</span> <span class="comment"># GitHub ID</span></span><br><span class="line">  <span class="attr">admin:</span> <span class="comment"># GitHub ID</span></span><br></pre></td></tr></table></figure>
 
 
@@ -97,52 +98,60 @@
 </ul>
 <p>更多插件请见 <a href="https://hexo.io/plugins/">hexo插件市场</a></p>
 <h2 id="分类"><a href="#分类" class="headerlink" title="分类"></a>分类</h2><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo new page categories</span><br></pre></td></tr></table></figure>
-<p>然后将以下复制到/source/categories/index.md文件</p>
+<p>然后将以下复制到 /source/categories/index.md 文件</p>
 <figure class="highlight md"><table><tr><td class="code"><pre><span class="line">---</span><br><span class="line">title: categories</span><br><span class="line">type: &quot;categories&quot;</span><br><span class="line">layout: &quot;categories&quot;</span><br><span class="line">---</span><br></pre></td></tr></table></figure>
 
 <h2 id="标签"><a href="#标签" class="headerlink" title="标签"></a>标签</h2><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo new page tags</span><br></pre></td></tr></table></figure>
 <p>配置同分类一样</p>
 <h2 id="友情链接"><a href="#友情链接" class="headerlink" title="友情链接"></a>友情链接</h2><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo new page friends</span><br></pre></td></tr></table></figure>
-<p>然后将以下复制到/source/friends/index.md文件</p>
+<p>然后将以下复制到 /source/friends/index.md 文件</p>
 <figure class="highlight md"><table><tr><td class="code"><pre><span class="line">---</span><br><span class="line">title: friends</span><br><span class="line">type: friends</span><br><span class="line">layout: &quot;friends&quot;</span><br><span class="line">---</span><br></pre></td></tr></table></figure>
-<p>然后在 <code>_config.yml</code> 中自定义 <code>friends_link</code> 配置项即可</p>
+<p>然后在 ayer 主题目录下的 <code>_config.yml</code> 中自定义 <code>friends_link</code> 配置项即可</p>
 <h2 id="相册"><a href="#相册" class="headerlink" title="相册"></a>相册</h2><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo new page photos</span><br></pre></td></tr></table></figure>
-<p>然后将以下复制到/source/photos/index.md文件，img_url替换成图片路径，caption替换成图片名称</p>
+<p>然后将以下复制到 /source/photos/index.md 文件，<code>img_url</code> 替换成图片路径，<code>caption</code> 替换成图片名称</p>
 <figure class="highlight md"><table><tr><td class="code"><pre><span class="line">---</span><br><span class="line">title: Gallery</span><br><span class="line"></span><br><span class="line">albums: [</span><br><span class="line"><span class="code">        [&quot;img_url&quot;,&quot;img_caption&quot;],</span></span><br><span class="line"><span class="code">        [&quot;img_url&quot;,&quot;img_caption&quot;]</span></span><br><span class="line"><span class="code">        ]</span></span><br><span class="line"><span class="code">---</span></span><br></pre></td></tr></table></figure>
 
-<h2 id="文章目录"><a href="#文章目录" class="headerlink" title="文章目录"></a>文章目录</h2><p>用Tocbot解析文章标题并生成目录</p>
+<h2 id="文章目录"><a href="#文章目录" class="headerlink" title="文章目录"></a>文章目录</h2><p>用 Tocbot 解析文章标题并生成目录</p>
 <ul>
-<li><p>将以下配置复制到你ayer目录下的 <code>_config.yml</code> 里：</p>
-  <figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="comment"># Toc</span></span><br><span class="line"> toc: <span class="literal">true</span></span><br></pre></td></tr></table></figure></li>
-<li><p>当然你可能并不想所有文章都生成悬浮目录，你可以在文章顶部的配置中加一行来进行关闭：</p>
-  <figure class="highlight md"><table><tr><td class="code"><pre><span class="line">---</span><br><span class="line">no<span class="emphasis">_toc: true</span></span><br><span class="line"><span class="emphasis">---</span></span><br></pre></td></tr></table></figure>
-
-</li>
+<li>将以下配置复制到你 ayer 主题目录下的 <code>_config.yml</code> 里：</li>
 </ul>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="comment"># Toc</span></span><br><span class="line">toc: <span class="literal">true</span></span><br></pre></td></tr></table></figure>
+<ul>
+<li>当然你可能并不想所有文章都生成悬浮目录，你可以在文章顶部的配置中加一行来进行关闭：</li>
+</ul>
+<figure class="highlight md"><table><tr><td class="code"><pre><span class="line">---</span><br><span class="line">no<span class="emphasis">_toc: true</span></span><br><span class="line"><span class="emphasis">---</span></span><br></pre></td></tr></table></figure>
+
 <hr>
 <h1 id="常见问题"><a href="#常见问题" class="headerlink" title="常见问题"></a>常见问题</h1><h2 id="一-本地图片引用了却无法显示"><a href="#一-本地图片引用了却无法显示" class="headerlink" title="一.本地图片引用了却无法显示"></a>一.本地图片引用了却无法显示</h2><blockquote>
-<p>插入图片的两种方法：1.引用图床，2.引用本地图片。为了防止路径出错，建议使用图床。</p>
+<p>插入图片的两种方法：</p>
 </blockquote>
+<ol>
+<li>引用图床</li>
+<li>引用本地图片。为了防止路径出错，建议使用图床。</li>
+</ol>
 <h3 id="1-图床"><a href="#1-图床" class="headerlink" title="1.图床"></a>1.图床</h3><p>推荐使用：<a href="https://sm.ms/">SM.MS</a>，<a href="https://www.superbed.cn/">聚合图床</a></p>
 <h3 id="2-本地图片"><a href="#2-本地图片" class="headerlink" title="2.本地图片"></a>2.本地图片</h3><p>参照 <a href="https://hexo.io/zh-cn/docs/asset-folders">Hexo文档</a>，然后用这种方式引用图片：</p>
 <figure class="highlight md"><table><tr><td class="code"><pre><span class="line">&#123;% asset<span class="emphasis">_img image.jpg [title] %&#125;</span></span><br></pre></td></tr></table></figure>
 
-<p>如果还是无法显示，请尝试在文章里用html的img标签来引用本地图片。</p>
+<p>如果还是无法显示，请尝试在文章里用 html 的 img 标签来引用本地图片。</p>
 <h2 id="二-可以启动但是样式变形了"><a href="#二-可以启动但是样式变形了" class="headerlink" title="二.可以启动但是样式变形了"></a>二.可以启动但是样式变形了</h2><p>这很可能是因为你把博客部署到了服务器子目录，导致静态资源加载的路径不对，在此强烈建议你部署到根目录，github和码云都支持根目录部署，只要你把仓库名搞成和用户名一样就行了。</p>
-<h2 id="三-点击侧边栏页面无法显示"><a href="#三-点击侧边栏页面无法显示" class="headerlink" title="三.点击侧边栏页面无法显示"></a>三.点击侧边栏页面无法显示</h2><p>原因：ayer主题目录下的 <code>config.yml</code> 里menu属性的路径不对，这需要你根据页面路径手动配置。</p>
+<h2 id="三-点击侧边栏页面无法显示"><a href="#三-点击侧边栏页面无法显示" class="headerlink" title="三.点击侧边栏页面无法显示"></a>三.点击侧边栏页面无法显示</h2><p>原因：ayer 主题目录下的 <code>config.yml</code> 里 menu 属性的路径不对，这需要你根据页面路径手动配置。</p>
 <p>以我的博客为例：</p>
 <figure class="highlight yaml"><table><tr><td class="code"><pre><span class="line"><span class="attr">menu:</span></span><br><span class="line">  <span class="string">主页:</span> <span class="string">/</span></span><br><span class="line">  <span class="string">归档:</span> <span class="string">/archives</span></span><br><span class="line">  <span class="string">分类:</span> <span class="string">/categories</span></span><br><span class="line">  <span class="string">标签:</span> <span class="string">/tags</span></span><br><span class="line">  <span class="string">旅行:</span> <span class="string">/tags/旅行/</span></span><br><span class="line">  <span class="string">摄影:</span> <span class="string">http://shenyu-vip.lofter.com</span></span><br><span class="line">  <span class="string">关于我:</span> <span class="string">/2019/about</span></span><br></pre></td></tr></table></figure>
 
-<p>上面的<code>归档/archives</code>是固定的，你不需要修改，<code>标签</code>和<code>分类</code>都需要手动创建目录，<code>旅行</code>实际上就是一个标签页，当你在文章头部设置tags属性后就会自动生成，<code>摄影</code>是一个站外的绝对路径，<code>关于我</code>实际上就是一个正常的文章页。好了，现在一个侧边栏导航就已经配置好了。</p>
-<h2 id="四-为什么修改了配置却没有效果"><a href="#四-为什么修改了配置却没有效果" class="headerlink" title="四.为什么修改了配置却没有效果"></a>四.为什么修改了配置却没有效果</h2><p>建议每次生成站点或部署之前都用 <code>hexo clean</code> 命令清理一下缓存，另外你可能还需要刷新一下。</p>
-<h2 id="五-怎么修改大标题和站点信息"><a href="#五-怎么修改大标题和站点信息" class="headerlink" title="五.怎么修改大标题和站点信息"></a>五.怎么修改大标题和站点信息</h2><p>站点配置文件<code>_config.yml</code>是hexo站点根目录下的主配置文件(还不知道是哪里的，自己google)，注意：别和<code>ayer</code>主题目录下的<code>_config.yml</code>搞混了。</p>
-<p>修改网站各种资料，例如标题、副标题和邮箱等个人资料，请修改站点根目录下的<code>_config.yml</code></p>
+<p>上面的 <code>归档/archives</code> 是固定的，你不需要修改，<code>标签</code>和<code>分类</code>都需要手动创建目录，<code>旅行</code>实际上就是一个标签页，当你在文章头部设置tags属性后就会自动生成，<code>摄影</code>是一个站外的绝对路径，<code>关于我</code>实际上就是一个正常的文章页。好了，现在一个侧边栏导航就已经配置好了。</p>
+<h2 id="四-为什么修改了配置却没有效果"><a href="#四-为什么修改了配置却没有效果" class="headerlink" title="四.为什么修改了配置却没有效果"></a>四.为什么修改了配置却没有效果</h2><p>建议每次生成站点或部署之前都用 <code>hexo clean</code> 命令清理一下缓存，请使用 Ctrl + F5 清除缓存并刷新页面。</p>
+<h2 id="五-怎么修改大标题和站点信息"><a href="#五-怎么修改大标题和站点信息" class="headerlink" title="五.怎么修改大标题和站点信息"></a>五.怎么修改大标题和站点信息</h2><p>参考 <a href="https://hexo.io/zh-cn/docs/configuration">Hexo 文档</a></p>
+<p>站点配置文件 <code>_config.yml</code> 是 Hexo 站点根目录下的主配置文件（还不知道是哪里的，自己搜索），注意：别和 <code>ayer</code> 主题目录下的 <code>_config.yml</code> 搞混了。</p>
+<p>修改网站各种资料，例如标题、副标题和邮箱等个人资料，请修改 Hexo 博客目录下的 <code>_config.yml</code></p>
 <p>以我的博客为例：<br><img src="https://pic.downk.cc/item/5e75c69c9d7d586a54cf119d.jpg" alt=""></p>
-<h2 id="六-怎么添加百度或谷歌统计"><a href="#六-怎么添加百度或谷歌统计" class="headerlink" title="六.怎么添加百度或谷歌统计"></a>六.怎么添加百度或谷歌统计</h2><h3 id="百度统计"><a href="#百度统计" class="headerlink" title="百度统计"></a>百度统计</h3><p>在ayer的config配置里的<code>baidu_analytics</code>填上百度统计代码中的hm.js问好后面那一串东西</p>
-<h3 id="谷歌统计"><a href="#谷歌统计" class="headerlink" title="谷歌统计"></a>谷歌统计</h3><p>在ayer的config配置里的<code>google_analytics</code>填上谷歌统计代码的跟踪ID，即UA值(包含UA)</p>
-<h2 id="七-怎么查看文章的访问量"><a href="#七-怎么查看文章的访问量" class="headerlink" title="七.怎么查看文章的访问量"></a>七.怎么查看文章的访问量</h2><p>在ayer的config配置里有<code>busuanzi</code>选项，默认设置为<code>enable:true</code>，就开启了站点访问量的统计，站点尾部左下角的<code>PV</code>代表了当前页的访问次数，<code>UV</code>代表了当前站点的访问人数。注意：不蒜子统计是根据当前域名来统计的，你在本地启动的时候由于是localhost，所以数字会很大，部署到线上之后就会根据域名重新统计。</p>
+<h2 id="六-怎么添加百度或谷歌统计"><a href="#六-怎么添加百度或谷歌统计" class="headerlink" title="六.怎么添加百度或谷歌统计"></a>六.怎么添加百度或谷歌统计</h2><h3 id="百度统计"><a href="#百度统计" class="headerlink" title="百度统计"></a>百度统计</h3><p>参考这里：<a href="https://tongji.baidu.com/web/help/article?id=174&type=0&castk=LTE%3D">百度统计代码介绍</a></p>
+<p>在 ayer 的 config 配置里的 <code>baidu_analytics</code> 填上百度统计代码中的 <code>hm.js?</code> 后面那一串东西</p>
+<h3 id="谷歌统计"><a href="#谷歌统计" class="headerlink" title="谷歌统计"></a>谷歌统计</h3><p>参考这里：<a href="https://support.google.com/analytics/answer/1008015?hl=en">Get started with Google Analytics</a></p>
+<p>在 ayer 的 config 配置里的 <code>google_analytics</code> 填上谷歌统计代码的跟踪 ID，即 UA 值(包含 UA)</p>
+<h2 id="七-怎么查看文章的访问量"><a href="#七-怎么查看文章的访问量" class="headerlink" title="七.怎么查看文章的访问量"></a>七.怎么查看文章的访问量</h2><p>在 ayer 的 config 配置里有 <code>busuanzi</code> 选项，默认设置为 <code>enable:true</code>，就开启了站点访问量的统计，站点尾部左下角的 <code>PV</code> 代表了当前页的访问次数，<code>UV</code> 代表了当前站点的访问人数。注意：不蒜子统计是根据当前域名来统计的，你在本地启动的时候由于是 localhost，所以数字会很大，部署到线上之后就会根据域名重新统计。</p>
 <h2 id="八-网易云音乐无法播放"><a href="#八-网易云音乐无法播放" class="headerlink" title="八.网易云音乐无法播放"></a>八.网易云音乐无法播放</h2><p>这是由于网易云音乐对部分歌曲做了版权限制，你可以多换几首试试，配置文件里的默认歌曲 <code>潮鳴り</code> 是可以播放的。如果你动手能力强，也可以试试音乐播放插件 <a href="https://github.com/MoePlayer/hexo-tag-aplayer/blob/master/docs/README-zh_cn.md">hexo-tag-aplayer</a>，配合<code>MetingJS</code>可以支持对于 QQ音乐、网易云、虾米、酷狗、百度等平台的音乐播放。</p>
-<h2 id="九-分享链接无法打开"><a href="#九-分享链接无法打开" class="headerlink" title="九.分享链接无法打开"></a>九.分享链接无法打开</h2><p>你需要在根目录下的_config.yml文件中把url配置成部署后的域名。</p>
+<h2 id="九-分享链接无法打开"><a href="#九-分享链接无法打开" class="headerlink" title="九.分享链接无法打开"></a>九.分享链接无法打开</h2><p>你需要在 Hexo 博客目录下的 <code>_config.yml</code> 文件中把 url 配置成部署后的域名。</p>
 <h2 id="十-怎么让搜索引擎收录站点"><a href="#十-怎么让搜索引擎收录站点" class="headerlink" title="十.怎么让搜索引擎收录站点"></a>十.怎么让搜索引擎收录站点</h2><p>参考：<a href="/2020/hexo-seo">Hexo站点SEO优化技巧</a></p>
 ]]></content>
       <categories>
@@ -230,11 +239,11 @@
 <p>其中 <code>chart</code> 是标签名，<code>endchart</code> 是结束标签，不需要更改，<code>90%</code> 是图表容器的相对宽度，默认是<code>100%</code>，<code>300</code> 是图表容器的高度，默认是按正常比例缩放的，你可以通过设置 <code>options</code> 里面的 <code>aspectRatio</code> 属性来调整宽高比例，另外还有许多属性可以自定义，你可以查看 <a href="https://www.chartjs.org/docs/latest/general/responsive.html">官方文档</a>。在标签之间的部分，都是需要自己填充的图表数据和属性。</p>
 <p>我们来看一个样例，你可以把鼠标移上去看看动态效果。</p>
 <div style="width: 90%;margin: 0 auto">
-    <canvas id="chart7413" style="height: 300px"></canvas>
+    <canvas id="chart1553" style="height: 300px"></canvas>
 </div>
 <script src="https://cdn.jsdelivr.net/npm/chart.js@2.9.3/dist/Chart.min.js"></script>
 <script type="text/javascript">
-    var ctx = document.getElementById('chart7413').getContext('2d');
+    var ctx = document.getElementById('chart1553').getContext('2d');
     var options = {type:'line',data:{labels:['January','February','March','April','May','June','July'],datasets:[{label:'My First dataset',backgroundColor:'rgb(255, 99, 132)',borderColor:'rgb(255, 99, 132)',data:[0,10,5,2,20,30,45]}]},options:{responsive:true,title:{display:true,text:'Chart.js Line Chart'}}};
     new Chart(ctx, options);
 </script>
@@ -245,61 +254,61 @@
 
 <h1 id="示例"><a href="#示例" class="headerlink" title="示例"></a>示例</h1><p>现在你已经基本学会了在Hexo中插入图表了，我再展示一些更炫酷的图表吧，你可以自己去尝试一下。</p>
 <h2 id="柱状-条形图"><a href="#柱状-条形图" class="headerlink" title="柱状/条形图"></a>柱状/条形图</h2><div style="width: 90%;margin: 0 auto">
-    <canvas id="chart1127" style="height: 300px"></canvas>
+    <canvas id="chart9644" style="height: 300px"></canvas>
 </div>
 <script src="https://cdn.jsdelivr.net/npm/chart.js@2.9.3/dist/Chart.min.js"></script>
 <script type="text/javascript">
-    var ctx = document.getElementById('chart1127').getContext('2d');
+    var ctx = document.getElementById('chart9644').getContext('2d');
     var options = {"type":"bar","data":{"labels":["January","February","March","April","May","June","July"],"datasets":[{"label":"My First Dataset","data":[65,59,80,81,56,55,40],"fill":false,"backgroundColor":["rgba(255, 99, 132, 0.2)","rgba(255, 159, 64, 0.2)","rgba(255, 205, 86, 0.2)","rgba(75, 192, 192, 0.2)","rgba(54, 162, 235, 0.2)","rgba(153, 102, 255, 0.2)","rgba(201, 203, 207, 0.2)"],"borderColor":["rgb(255, 99, 132)","rgb(255, 159, 64)","rgb(255, 205, 86)","rgb(75, 192, 192)","rgb(54, 162, 235)","rgb(153, 102, 255)","rgb(201, 203, 207)"],"borderWidth":1}]},"options":{"scales":{"yAxes":[{"ticks":{"beginAtZero":true}}]}}};
     new Chart(ctx, options);
 </script>
 
 <h2 id="环形-amp-饼图"><a href="#环形-amp-饼图" class="headerlink" title="环形&amp;饼图"></a>环形&amp;饼图</h2><div style="width: 90%;margin: 0 auto">
-    <canvas id="chart4071" style="height: 300px"></canvas>
+    <canvas id="chart1792" style="height: 300px"></canvas>
 </div>
 <script src="https://cdn.jsdelivr.net/npm/chart.js@2.9.3/dist/Chart.min.js"></script>
 <script type="text/javascript">
-    var ctx = document.getElementById('chart4071').getContext('2d');
+    var ctx = document.getElementById('chart1792').getContext('2d');
     var options = {"type":"pie","data":{"labels":["Red","Blue","Yellow"],"datasets":[{"label":"My First Dataset","data":[300,50,100],"backgroundColor":["rgb(255, 99, 132)","rgb(54, 162, 235)","rgb(255, 205, 86)"]}]}};
     new Chart(ctx, options);
 </script>
 
 <h2 id="雷达图"><a href="#雷达图" class="headerlink" title="雷达图"></a>雷达图</h2><div style="width: 90%;margin: 0 auto">
-    <canvas id="chart148" style="height: 300px"></canvas>
+    <canvas id="chart812" style="height: 300px"></canvas>
 </div>
 <script src="https://cdn.jsdelivr.net/npm/chart.js@2.9.3/dist/Chart.min.js"></script>
 <script type="text/javascript">
-    var ctx = document.getElementById('chart148').getContext('2d');
+    var ctx = document.getElementById('chart812').getContext('2d');
     var options = {"type":"radar","data":{"labels":["Eating","Drinking","Sleeping","Designing","Coding","Cycling","Running"],"datasets":[{"label":"My First Dataset","data":[65,59,90,81,56,55,40],"fill":true,"backgroundColor":"rgba(255, 99, 132, 0.2)","borderColor":"rgb(255, 99, 132)","pointBackgroundColor":"rgb(255, 99, 132)","pointBorderColor":"#fff","pointHoverBackgroundColor":"#fff","pointHoverBorderColor":"rgb(255, 99, 132)"},{"label":"My Second Dataset","data":[28,48,40,19,96,27,100],"fill":true,"backgroundColor":"rgba(54, 162, 235, 0.2)","borderColor":"rgb(54, 162, 235)","pointBackgroundColor":"rgb(54, 162, 235)","pointBorderColor":"#fff","pointHoverBackgroundColor":"#fff","pointHoverBorderColor":"rgb(54, 162, 235)"}]},"options":{"elements":{"line":{"tension":0,"borderWidth":3}}}};
     new Chart(ctx, options);
 </script>
 
 <h2 id="气泡图"><a href="#气泡图" class="headerlink" title="气泡图"></a>气泡图</h2><div style="width: 90%;margin: 0 auto">
-    <canvas id="chart7702" style="height: 300px"></canvas>
+    <canvas id="chart5914" style="height: 300px"></canvas>
 </div>
 <script src="https://cdn.jsdelivr.net/npm/chart.js@2.9.3/dist/Chart.min.js"></script>
 <script type="text/javascript">
-    var ctx = document.getElementById('chart7702').getContext('2d');
+    var ctx = document.getElementById('chart5914').getContext('2d');
     var options = {"type":"bubble","data":{"datasets":[{"label":"First Dataset","data":[{"x":20,"y":30,"r":6},{"x":25,"y":20,"r":8},{"x":32,"y":6,"r":7},{"x":35,"y":26,"r":9},{"x":40,"y":10,"r":5}],"backgroundColor":"rgb(255, 99, 132)"}]}};
     new Chart(ctx, options);
 </script>
 
 <h2 id="离散图"><a href="#离散图" class="headerlink" title="离散图"></a>离散图</h2><div style="width: 90%;margin: 0 auto">
-    <canvas id="chart7078" style="height: 300px"></canvas>
+    <canvas id="chart9889" style="height: 300px"></canvas>
 </div>
 <script src="https://cdn.jsdelivr.net/npm/chart.js@2.9.3/dist/Chart.min.js"></script>
 <script type="text/javascript">
-    var ctx = document.getElementById('chart7078').getContext('2d');
+    var ctx = document.getElementById('chart9889').getContext('2d');
     var options = {type:'scatter',data:{labels:['January','February','March','April','May','June','July'],datasets:[{label:'My First dataset',borderColor:'rgb(255, 99, 132)',backgroundColor:'rgb(255, 99, 132)',data:[{x:12,y:45,},{x:12,y:13,},{x:56,y:3,},{x:5,y:87,},{x:43,y:76,},{x:34,y:8,},{x:9,y:53,}]},{label:'My Second dataset',borderColor:'rgb(54, 162, 235)',backgroundColor:'rgb(54, 162, 235)',data:[{x:56,y:12,},{x:7,y:12,},{x:87,y:24,},{x:34,y:45,},{x:65,y:27,},{x:8,y:37,},{x:24,y:89,}]}],options:{title:{display:true,text:'Chart.js Scatter Chart'},}}};
     new Chart(ctx, options);
 </script>
 
 <h2 id="混合图"><a href="#混合图" class="headerlink" title="混合图"></a>混合图</h2><div style="width: 90%;margin: 0 auto">
-    <canvas id="chart697" style="height: 300px"></canvas>
+    <canvas id="chart2329" style="height: 300px"></canvas>
 </div>
 <script src="https://cdn.jsdelivr.net/npm/chart.js@2.9.3/dist/Chart.min.js"></script>
 <script type="text/javascript">
-    var ctx = document.getElementById('chart697').getContext('2d');
+    var ctx = document.getElementById('chart2329').getContext('2d');
     var options = {"type":"bar","data":{"labels":["January","February","March","April"],"datasets":[{"label":"Bar Dataset","data":[10,20,30,40],"borderColor":"rgb(255, 99, 132)","backgroundColor":"rgba(255, 99, 132, 0.2)"},{"label":"Line Dataset","data":[50,50,50,50],"type":"line","fill":false,"borderColor":"rgb(54, 162, 235)"}]},"options":{"scales":{"yAxes":[{"ticks":{"beginAtZero":true}}]}}};
     new Chart(ctx, options);
 </script>
