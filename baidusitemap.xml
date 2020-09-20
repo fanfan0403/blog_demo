@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://shen-yu.gitee.io/2019/about/</loc>
+    <lastmod>2020-09-20</lastmod>
+  </url>
+  <url>
     <loc>https://shen-yu.gitee.io/2020/chartjs/</loc>
     <lastmod>2020-09-15</lastmod>
   </url>
@@ -50,10 +54,6 @@
   </url>
   <url>
     <loc>https://shen-yu.gitee.io/2020/hexo-seo/</loc>
-    <lastmod>2020-08-27</lastmod>
-  </url>
-  <url>
-    <loc>https://shen-yu.gitee.io/2019/about/</loc>
     <lastmod>2020-08-27</lastmod>
   </url>
 </urlset> 
